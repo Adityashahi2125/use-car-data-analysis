@@ -16,6 +16,8 @@ Apply exploratory data analysis (EDA) to uncover hidden patterns and relationshi
 
 Present findings using clear, professional visualizations suitable for business interpretation
 
+
+
 Analytical Methodology
 
 The analysis follows a structured and repeatable workflow:
@@ -34,6 +36,8 @@ Visualization‑driven insight generation
 
 Interpretation of results from a market and business perspective
 
+
+
 Tools & Technologies
 
 Python – Core programming language for analysis
@@ -45,6 +49,8 @@ NumPy – Numerical and statistical computations
 Matplotlib & Seaborn – Professional‑grade data visualization
 
 Jupyter Notebook – Interactive environment for analysis and reporting
+
+
 
 Dataset Description
 
@@ -64,6 +70,8 @@ Market selling price
 
 This dataset enables multi‑dimensional analysis of factors affecting vehicle resale value.
 
+
+
 Key Insights & Findings
 
 Vehicle price shows a consistent decline with increasing age and mileage
@@ -76,6 +84,8 @@ Ownership history plays a crucial role, with first‑owner vehicles dominating h
 
 Clear pricing variation exists across fuel type, ownership category, and vehicle age
 
+
+
 Deliverables
 
 Cleaned and structured dataset
@@ -86,7 +96,10 @@ Insight‑driven visualizations
 
 Well‑documented analytical conclusions
 
+
+
 Repository Structure
+
 use-car-data-analysis/
 │
 ├── data/              # Raw and processed datasets
@@ -94,6 +107,8 @@ use-car-data-analysis/
 ├── visuals/           # Generated charts and plots
 ├── README.md          # Project documentation
 └── requirements.txt   # Python dependencies
+
+
 Future Enhancements
 
 Development of machine learning models for used car price prediction
